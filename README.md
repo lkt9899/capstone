@@ -18,17 +18,21 @@ Target Detecting over 25 Frame Rate
 frame << (background mask * original image) + (foreground mask * UI image)
 
 ![btn_ui_without_mask](https://user-images.githubusercontent.com/80976609/124295397-c06d5c00-db93-11eb-9993-b4a851cde90f.png)
+
 UI not using mask
 
 ![btn_ui_with_mask](https://user-images.githubusercontent.com/80976609/124295431-cbc08780-db93-11eb-8686-a6dda46508ac.png)
+
 UI using mask
 
 # different UI by role
 ![police](https://user-images.githubusercontent.com/80976609/124295612-00344380-db94-11eb-906c-a7eb28036270.png)
+
 police UI
 
 ![theif_hit](https://user-images.githubusercontent.com/80976609/124295649-0f1af600-db94-11eb-92d8-967492e1d690.png)
 ![theif](https://user-images.githubusercontent.com/80976609/124295655-10e4b980-db94-11eb-90fa-926dde68c31f.png)
+
 theif UI
 
 # get sensor value
