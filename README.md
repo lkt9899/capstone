@@ -1,6 +1,8 @@
 # ----game programming using jetracer(not completed)----
 21.05~21.06 by LYOS
 
+make game using jetracer(with jetson nano)
+
 # RGB to HSV Transform
 ![rgb_to_hsv](https://user-images.githubusercontent.com/80976609/124295068-5eacf200-db93-11eb-8add-810823957499.png)
 
@@ -37,3 +39,5 @@ theif UI
 
 # get sensor value
 ![sensor_value](https://user-images.githubusercontent.com/80976609/124295697-1c37e500-db94-11eb-9f0b-c6d95456c896.png)
+
+
