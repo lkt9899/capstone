@@ -3,10 +3,12 @@
 
 make game using jetracer(with jetson nano)
 
-# RGB to HSV Transform
+
+# RGB to HSV Transform(O)
 ![rgb_to_hsv](https://user-images.githubusercontent.com/80976609/124295068-5eacf200-db93-11eb-8add-810823957499.png)
 
-# Thresholding and Detecting
+
+# Thresholding and Detecting(O)
 ![bin detect](https://user-images.githubusercontent.com/80976609/124295153-784e3980-db93-11eb-9ebc-220c0ee161ae.png)
 
 Thresholding by hsv value
@@ -16,7 +18,8 @@ Thresholding by hsv value
 
 Target Detecting over 25 Frame Rate
 
-# UI
+
+# UI(O)
 frame << (background mask * original image) + (foreground mask * UI image)
 
 ![btn_ui_without_mask](https://user-images.githubusercontent.com/80976609/124295397-c06d5c00-db93-11eb-9993-b4a851cde90f.png)
@@ -27,7 +30,8 @@ UI not using mask
 
 UI using mask
 
-# different UI by role
+
+# different UI by role(O)
 ![police](https://user-images.githubusercontent.com/80976609/124295612-00344380-db94-11eb-906c-a7eb28036270.png)
 
 police UI
@@ -37,7 +41,12 @@ police UI
 
 theif UI
 
-# get sensor value
+
+# get sensor value(O)
 ![sensor_value](https://user-images.githubusercontent.com/80976609/124295697-1c37e500-db94-11eb-9f0b-c6d95456c896.png)
 
 
+# AR using ROS(X)
+![ROS](https://user-images.githubusercontent.com/80976609/124295983-7042c980-db94-11eb-85ab-edcc2b35417e.png)
+
+Using ROS, we wanna make AR object and mini map, but failed.
