@@ -1,2 +1,3 @@
-# capstone
-21.05~21.06
+# Capstone Project
+# ----game programming using jetracer----
+21.05~21.06 by LYOS
