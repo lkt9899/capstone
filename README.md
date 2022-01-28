@@ -1,5 +1,5 @@
 # ----game programming using jetracer(not completed)----
-21.05~21.06 by LYOS
+21.04~21.06 by LYOS
 
 make game using jetracer(with jetson nano)
 
